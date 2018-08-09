@@ -84,7 +84,7 @@ confint(mod3) #nosier dataset
 # s)Comment: Larger variance results in larger widths. 
 
 #####################
-#### QUESTION 02 ####
+#### PART 02     ####
 #####################
 # Collinearity practice
 set.seed(5072)
@@ -129,7 +129,7 @@ plot(lm.fit.justx21)
 # r)Comment: point 101 is an outlier and high-leverage point. 
 
 #####################
-#### QUESTION 03 ####
+#### PART 0      ####
 #####################
 # Simple vs. Multiple Regression, practice with Extraction Functions
 # use Boston dataset in MASS package. 
