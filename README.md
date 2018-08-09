@@ -5,3 +5,5 @@ ML1:
 KNN regression & classification
 This one uses HomePrices.txt, and LoanData.csv
 
+ML2: 
+Linear regressions
