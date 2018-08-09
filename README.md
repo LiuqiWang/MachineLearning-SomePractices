@@ -16,3 +16,6 @@ Support Vector Machines and Splines
 
 ML5: 
 Use Tree-based methods to build Customer Churn Model. This file uses A2TrainingData1.csv, and A2TrainingData2.csv.
+
+ML6: 
+Generalized Additive Models and Unsupervised Learning practices. 
