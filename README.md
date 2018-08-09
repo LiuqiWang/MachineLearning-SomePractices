@@ -10,3 +10,6 @@ Linear regressions
 
 ML3: 
 Classification and Resampling practices. Explore with LDA, QDA, and KNN, with confusion matrix. 
+
+ML4: 
+Support Vector Machines and Splines
